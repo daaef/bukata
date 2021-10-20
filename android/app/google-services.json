@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "862626359489",
+    "firebase_url": "https://bukata-139af.firebaseio.com",
+    "project_id": "bukata-139af",
+    "storage_bucket": "bukata-139af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862626359489:android:6e9afe8a8e31b2611a0c40",
+        "android_client_info": {
+          "package_name": "com.xcelcior.bukata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862626359489-rh4s65n45p22tnm6j9gtjtlr67ajhr77.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xcelcior.bukata",
+            "certificate_hash": "194d9d2234fef2979552d636885107499054ac4c"
+          }
+        },
+        {
+          "client_id": "862626359489-31i0bvfvv643u9qovd096ckas0g79tqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaiCFXsEd6ju09A0AUplKcZYgs9_phHc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862626359489-31i0bvfvv643u9qovd096ckas0g79tqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
